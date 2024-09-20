@@ -1,10 +1,7 @@
-<script setup>
-import TodoList from './components/TodoList.vue'
-</script>
+<script setup></script>
 
 <template>
-  <h1>#1 Todo List Project</h1>
-  <TodoList />
+  <h1>Random Quotes Generator</h1>
 </template>
 
 <style scoped></style>
